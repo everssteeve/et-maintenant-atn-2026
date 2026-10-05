@@ -33,6 +33,11 @@ L'agilité n'est pas née en 2001 : elle est née d'un changement dans la façon
 
 Sur scène, avec les pauses et les transitions, compter ~35 min, ce qui laisse **~10 min pour les questions**.
 
+## Cadeaux pour le public
+
+- **[Une histoire de l'agilité](HISTOIRE-AGILITE.md)** : le récit complet et sourcé, des précurseurs (1924) aux agents de codage (2026), avec chronologie, personnes clés, Manifeste, mythes corrigés, controverses et 116 références.
+- **[Deck Agile](https://deck-agile.vercel.app)** : une application gamifiée pour apprendre l'histoire de l'agilité en jouant.
+
 ## Contenu du repo
 
 ```
@@ -43,6 +48,7 @@ deck/
 scripts/build.py     génère presentation.html et SCRIPT.md
 presentation.html    version autonome, jouable hors ligne
 SCRIPT.md            texte intégral des notes, slide par slide
+HISTOIRE-AGILITE.md  l'histoire de l'agilité, cadeau au public
 ```
 
 `deck/` est la source : c'est le format du deck Claude Slides, conservé tel quel pour pouvoir le resynchroniser. `presentation.html` et `SCRIPT.md` sont générés.
