@@ -40,7 +40,8 @@
   "lecons",
   "tentatives",
   "questions",
-  "fin"
+  "fin",
+  "references"
  ],
  "sections": {
   "intro": {

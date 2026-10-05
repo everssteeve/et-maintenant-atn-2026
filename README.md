@@ -17,7 +17,7 @@ L'agilité n'est pas née en 2001 : elle est née d'un changement dans la façon
 | 4 | La machine | 2025 — | Les agents IA ouvrent une seconde rupture |
 | 5 | Le large | 2026 → | Ce qui vacille, ce qui se transforme, ce qui tient |
 
-33 slides · ~4 600 mots de notes · ~33 min de parole à 140 mots/min.
+34 slides · ~4 600 mots de notes · ~33 min de parole à 140 mots/min.
 
 ## Timing — créneau de 45 min
 

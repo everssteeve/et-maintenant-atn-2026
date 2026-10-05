@@ -1,6 +1,6 @@
 # Et maintenant ? — La traversée — script
 
-> 4593 mots · environ 33 min à 140 mots/min
+> 4615 mots · environ 33 min à 140 mots/min
 
 ## Ouverture : l'agilité n'est pas née en 2001.
 
@@ -414,7 +414,7 @@ Et l'empirisme : regarder ce qui se passe, et ajuster.
 
 Je vous laisse avec une observation, que je vous invite à vérifier par vous-mêmes. Cette liste ressemble beaucoup à ce que la diffusion avait laissé à quai. Le principe du Manifeste sur l'excellence technique, celui que je vous ai lu tout à l'heure, n'a peut-être jamais été aussi actuel.
 
-### 30. Ce que l'histoire enseigne · Inviter, ne pas imposer
+### 30. Ce que l'histoire enseigne · Inviter, ne pas imposer · 1 · Une rupture technique appelle une façon de travailler · 2 · Garder l'excellence technique au centre · 3 · Inviter, ne pas imposer · 4 · Rester une communauté d'idées · 5 · Avancer par essais, à petite échelle
 
 *`lecons` · 124 mots*
 
@@ -430,7 +430,7 @@ Quatre : rester une communauté d'idées. Le wiki de 1995 était ouvert. Ce qui 
 
 Cinq : avancer par essais, à petite échelle, en regardant les résultats.
 
-Si je ne devais en garder qu'une, ce serait celle qui est à l'écran.
+Si je ne devais en garder qu'une, ce serait celle qui est en titre.
 
 ### 31. Comme en 1993 · D'autres prennent déjà la mer
 
@@ -444,7 +444,7 @@ J'ai moi-même proposé une contribution, AIAD, un cadre ouvert et open source. 
 
 Aucune de ces tentatives n'est la réponse. XP n'était pas non plus la réponse en 1996. C'étaient des expériences, menées par des praticiens, et publiées.
 
-### 32. Les questions que je vous laisse · Que gardez-vous à bord ?
+### 32. Les questions que je vous laisse · Que gardez-vous à bord ? · Que garder de l'agilité quand écrire le code n'est plus le goulot ? · Qu'est-ce qu'une équipe, quand une partie de ses membres sont des agents ? · Que coache un coach agile, demain ? · Comment rester une communauté d'idées avant de devenir une industrie ?
 
 *`questions` · 88 mots*
 
@@ -471,3 +471,9 @@ L'objet a fait naître l'agilité en changeant ce que nous pouvions dire à la m
 On attribue à Mark Twain la phrase : « l'histoire ne se répète pas, mais elle rime ». Je l'ai vérifiée, comme le reste. Rien n'indique qu'il l'ait dite ; la forme la plus ancienne connue est du psychanalyste Theodor Reik, en 1965. La formule reste juste. Et c'est une bonne façon de finir : même nos citations préférées méritent qu'on retourne aux sources.
 
 Les références de cette conférence sont disponibles, et le livre arrive. Merci.
+
+### 34. Le journal de bord · Toutes les sources de la traversée · [QR code] · [URL des références] · Le livre : [titre] · [date de parution] · Steeve Evers · [contact]
+
+*`references` · 22 mots*
+
+Slide affichée pendant les questions. Toutes les références citées sont sur cette page : vous pouvez prendre le QR code en photo.
