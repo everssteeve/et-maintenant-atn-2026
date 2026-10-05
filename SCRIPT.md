@@ -1,14 +1,14 @@
 # Et maintenant ? — La traversée — script
 
-> 4615 mots · environ 33 min à 140 mots/min
+> 4634 mots · environ 33 min à 140 mots/min
 
 ## Ouverture : l'agilité n'est pas née en 2001.
 
 ### 1. Agile Tour Nantes 2026 · Steeve Evers · Et maintenant ? · Ce que l'histoire de l'agilité nous dit de son avenir
 
-*`cover` · 115 mots*
+*`cover` · 110 mots*
 
-Bonjour à toutes et à tous. Je m'appelle Steeve Evers. Depuis plusieurs mois, je mène des recherches sur l'histoire de l'agilité pour un livre à paraître, et c'est la première fois que je les partage en public.
+Bonjour à toutes et à tous. Je m'appelle Steeve Evers. Depuis plusieurs mois, je mène des recherches sur l'histoire de l'agilité, et c'est la première fois que je les partage en public.
 
 Le titre de cette conférence est une question : « Et maintenant ? ». Pour y répondre, je vous propose un détour par le passé. Et pour raconter ce passé, je vais utiliser une image : celle d'une traversée. Vous allez voir des navires, des équipages, des ports. Ce ne sont que des images. Les faits, eux, sont sourcés, et je vous dirai à chaque fois ce qui relève du fait et ce qui relève de ma conviction.
 
@@ -462,7 +462,7 @@ Prenez-en une. Emportez-la dans votre équipe.
 
 ### 33. Ma conviction · Tout ne sera pas emporté · Mais tout mérite d'être réexaminé. Merci.
 
-*`fin` · 128 mots*
+*`fin` · 127 mots*
 
 Je termine par ma conviction, en une phrase.
 
@@ -470,10 +470,17 @@ L'objet a fait naître l'agilité en changeant ce que nous pouvions dire à la m
 
 On attribue à Mark Twain la phrase : « l'histoire ne se répète pas, mais elle rime ». Je l'ai vérifiée, comme le reste. Rien n'indique qu'il l'ait dite ; la forme la plus ancienne connue est du psychanalyste Theodor Reik, en 1965. La formule reste juste. Et c'est une bonne façon de finir : même nos citations préférées méritent qu'on retourne aux sources.
 
-Les références de cette conférence sont disponibles, et le livre arrive. Merci.
+Et je vous ai préparé deux cadeaux pour la route. Merci.
 
-### 34. Le journal de bord · Toutes les sources de la traversée · [QR code] · [URL des références] · Le livre : [titre] · [date de parution] · Steeve Evers · [contact]
+### 34. Pour la route · Deux cadeaux à emporter · Deck Agile
+Apprendre l'histoire de l'agilité en jouant · deck-agile.vercel.app · [QR code] · L'histoire de l'agilité · Le récit complet et sourcé, des précurseurs à l'IA · [lien à venir]
 
-*`references` · 22 mots*
+*`cadeaux` · 47 mots*
 
-Slide affichée pendant les questions. Toutes les références citées sont sur cette page : vous pouvez prendre le QR code en photo.
+Avant de vous laisser, deux cadeaux pour la route.
+
+Le premier : Deck Agile, une application gamifiée pour apprendre l'histoire de l'agilité en s'amusant.
+
+Le second : l'histoire de l'agilité, racontée en détail, des précurseurs jusqu'aux agents, avec toutes ses sources.
+
+Prenez les QR codes en photo.
