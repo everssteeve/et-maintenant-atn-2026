@@ -1,0 +1,82 @@
+{
+ "v": 4,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-09-30T10:30:00Z"
+ },
+ "lists": "css",
+ "title": "Et maintenant ? — La traversée",
+ "cover": "cover",
+ "order": [
+  "cover",
+  "accroche",
+  "ch1",
+  "geants",
+  "scrum1986",
+  "question",
+  "ch2",
+  "crc",
+  "objet",
+  "oopsla",
+  "decennie",
+  "xp",
+  "manifeste",
+  "conviction1",
+  "ch3",
+  "pionniers",
+  "scrumxp",
+  "deconnexion",
+  "coaching",
+  "industrie",
+  "ch4",
+  "agents",
+  "epoques",
+  "fenetre",
+  "ch5",
+  "conditions",
+  "vacille",
+  "transforme",
+  "tient",
+  "lecons",
+  "tentatives",
+  "questions",
+  "fin"
+ ],
+ "sections": {
+  "intro": {
+   "description": "Ouverture : l'agilité n'est pas née en 2001.",
+   "start": "cover"
+  },
+  "c1": {
+   "description": "Les étoiles : les idées agiles existaient bien avant le logiciel.",
+   "start": "ch1"
+  },
+  "c2": {
+   "description": "Le nouveau navire : l'objet crée le besoin et l'opportunité de l'agilité.",
+   "start": "ch2"
+  },
+  "c3": {
+   "description": "L'armada : l'agilité se diffuse et perd ses pratiques techniques.",
+   "start": "ch3"
+  },
+  "c4": {
+   "description": "La machine : les agents IA ouvrent une seconde rupture.",
+   "start": "ch4"
+  },
+  "c5": {
+   "description": "Le large : ce qui vacille, ce qui tient, et les questions ouvertes.",
+   "start": "ch5"
+  }
+ },
+ "faces": {
+  "libre-baskerville": {
+   "family": "Libre Baskerville",
+   "href": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"
+  },
+  "public-sans": {
+   "family": "Public Sans",
+   "href": "https://fonts.googleapis.com/css2?family=Public+Sans:wght@400..700&display=swap"
+  }
+ },
+ "designSystems": []
+}
