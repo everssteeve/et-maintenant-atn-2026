@@ -1,6 +1,6 @@
 # Et maintenant ? — La traversée — script
 
-> 4634 mots · environ 33 min à 140 mots/min
+> 4757 mots · environ 34 min à 140 mots/min
 
 ## Ouverture : l'agilité n'est pas née en 2001.
 
@@ -12,7 +12,21 @@ Bonjour à toutes et à tous. Je m'appelle Steeve Evers. Depuis plusieurs mois, 
 
 Le titre de cette conférence est une question : « Et maintenant ? ». Pour y répondre, je vous propose un détour par le passé. Et pour raconter ce passé, je vais utiliser une image : celle d'une traversée. Vous allez voir des navires, des équipages, des ports. Ce ne sont que des images. Les faits, eux, sont sourcés, et je vous dirai à chaque fois ce qui relève du fait et ce qui relève de ma conviction.
 
-### 2. Ce qu'on raconte · « L'agilité est née en 2001. »
+### 2. D'où je parle · Steeve Evers · Laboratoire d'Expérimentations Digitales · BPCE SI · J'accompagne les initiatives innovantes de nos collaborateurs et partenaires. · BPCE SI · « Des femmes et des hommes au service des Banques Populaires, des Caisses d'Epargne et de plusieurs métiers spécialisés du Groupe BPCE. » · 2 500 collaborateurs · 18 villes en France · Groupe BPCE · « Coopératif, banquier et assureur, notre modèle est au service de nos clients et de l'économie. » · 2e acteur bancaire en France
+
+*`qui` · 123 mots*
+
+Un mot sur d'où je parle.
+
+Je travaille au sein du Laboratoire d'Expérimentations Digitales de BPCE SI. Mon rôle : accompagner les initiatives innovantes de nos collaborateurs et de nos partenaires.
+
+BPCE SI, ce sont environ 2 500 femmes et hommes, dans 18 villes en France, qui font évoluer chaque jour les systèmes d'information des Banques Populaires, des Caisses d'Epargne et de plusieurs métiers spécialisés du Groupe BPCE.
+
+Le Groupe BPCE, deuxième acteur bancaire en France, se définit ainsi : coopératif, banquier et assureur, son modèle est au service de ses clients et de l'économie.
+
+Ce que je vais vous raconter n'engage que moi. Mais mon quotidien, accompagner des équipes qui expérimentent avec de nouvelles technologies, est exactement au cœur de cette histoire.
+
+### 3. Ce qu'on raconte · « L'agilité est née en 2001. »
 
 *`accroche` · 108 mots*
 
@@ -24,7 +38,7 @@ Alors pourquoi l'agilité apparaît-elle dans les années 1990, et pas avant ? M
 
 ## Les étoiles : les idées agiles existaient bien avant le logiciel.
 
-### 3. Chapitre 1 · 1924 — 1986 · Les étoiles étaient déjà là
+### 4. Chapitre 1 · 1924 — 1986 · Les étoiles étaient déjà là
 
 *`ch1` · 67 mots*
 
@@ -34,7 +48,7 @@ Bien avant de savoir traverser un océan, les marins avaient les étoiles. Les r
 
 C'est exactement la situation du logiciel avant les années 1990. Les idées que nous appelons aujourd'hui agiles sont déjà formulées, parfois depuis des décennies, par des gens que l'histoire a presque effacés. Je vais vous en présenter quelques-uns.
 
-### 4. 1924 — 1986 · Les géants oubliés · Follett · Royce · Weinberg · Gilb · Deming
+### 5. 1924 — 1986 · Les géants oubliés · Follett · Royce · Weinberg · Gilb · Deming
 
 *`geants` · 252 mots*
 
@@ -50,7 +64,7 @@ Cinq phares, cinq noms.
 
 1986 : Deming publie « Out of the Crisis », issu d'un premier texte de 1982. Il y décrit ce qu'il appelle le cycle de Shewhart. Le sigle PDCA vient du Japon, et Deming l'a explicitement rejeté au profit de PDSA.
 
-### 5. 1986 · Takeuchi & Nonaka · La mêlée · Une image venue de l'industrie, pas du logiciel
+### 6. 1986 · Takeuchi & Nonaka · La mêlée · Une image venue de l'industrie, pas du logiciel
 
 *`scrum1986` · 164 mots*
 
@@ -64,7 +78,7 @@ Neuf ans plus tard, quand Ken Schwaber présente sa méthode, il cite explicitem
 
 À la même époque, une autre source vient aussi de l'industrie japonaise : le livre de Taiichi Ohno sur le système de production Toyota, paru au Japon en 1978 et traduit en anglais en 1988. Le Lean et le Kanban viennent de là.
 
-### 6. Soixante ans d'idées · Qu'est-ce qui manquait ?
+### 7. Soixante ans d'idées · Qu'est-ce qui manquait ?
 
 *`question` · 76 mots*
 
@@ -78,7 +92,7 @@ Regardez cette coque sur sa cale. Il manquait le navire.
 
 ## Le nouveau navire : l'objet crée le besoin et l'opportunité de l'agilité.
 
-### 7. Chapitre 2 · 1989 — 2001 · Un nouveau navire : l'objet
+### 8. Chapitre 2 · 1989 — 2001 · Un nouveau navire : l'objet
 
 *`ch2` · 75 mots*
 
@@ -88,7 +102,7 @@ Ce navire, pour moi, c'est la programmation orientée objet, et en particulier l
 
 Je vais vous montrer que les pratiques que nous appelons agiles sortent, pour la plupart, de ce milieu-là. Et je vous proposerai une explication : l'objet a changé ce qu'on pouvait dire à la machine, et donc la façon de travailler ensemble.
 
-### 8. 1989 · Beck & Cunningham · Des cartes sur une table
+### 9. 1989 · Beck & Cunningham · Des cartes sur une table
 
 *`crc` · 131 mots*
 
@@ -100,7 +114,7 @@ Ce qui m'intéresse, ce n'est pas la fiche. C'est la scène. Des gens autour d'u
 
 Ce n'est pas encore une méthode. C'est une nouvelle façon de converser. Et elle naît d'un besoin technique : apprendre à penser en objets.
 
-### 9. Ce que l'objet change · Le code parle enfin métier · Un besoin et une opportunité : se parler
+### 10. Ce que l'objet change · Le code parle enfin métier · Un besoin et une opportunité : se parler
 
 *`objet` · 223 mots*
 
@@ -116,7 +130,7 @@ Kent Beck le dit en 1999 : pour lui, les objets sont une technologie clé pour a
 
 Si changer coûte moins cher, alors on peut ajuster en chemin. Mais ajuster suppose de se parler, souvent, entre ceux qui connaissent le métier et ceux qui écrivent le code. L'objet crée à la fois l'opportunité et le besoin. C'est le voilier : on règle la voilure en route, à condition que l'équipage se parle.
 
-### 10. 1989 — 1995 · OOPSLA, le port d'attache
+### 11. 1989 — 1995 · OOPSLA, le port d'attache
 
 *`oopsla` · 164 mots*
 
@@ -134,7 +148,7 @@ Autour de la conférence, dans la même communauté : la thèse de William Opdyk
 
 Je ne dis pas que tout vient d'OOPSLA. Je dis que ce milieu-là a été l'incubateur.
 
-### 11. 1995 — 1999 · La décennie magique
+### 12. 1995 — 1999 · La décennie magique
 
 *`decennie` · 147 mots*
 
@@ -150,7 +164,7 @@ En 1999 paraissent « Extreme Programming Explained » de Kent Beck et « Refact
 
 Regardez ce que ces années ont en commun : des praticiens, qui publient, qui se répondent, qui expérimentent. Une flottille, pas encore une flotte.
 
-### 12. 1999 · Extreme Programming · Tenir la barre à deux
+### 13. 1999 · Extreme Programming · Tenir la barre à deux
 
 *`xp` · 139 mots*
 
@@ -162,7 +176,7 @@ Et XP définit un rôle qui nous intéresse : le coach. Dans le livre de 1999, c
 
 Retenez cette image : deux marins à la barre. Nous y reviendrons.
 
-### 13. Snowbird · février 2001 · Le Manifeste ne crée rien. Il cristallise.
+### 14. Snowbird · février 2001 · Le Manifeste ne crée rien. Il cristallise.
 
 *`manifeste` · 143 mots*
 
@@ -174,7 +188,7 @@ Un mot sur les signataires, parce qu'il touche à ma thèse. Selon mon décompte
 
 Je vous lis un des douze principes, dans sa traduction française officielle : « Une attention continue à l'excellence technique et à une bonne conception renforce l'Agilité. » Gardez-le en tête pour la suite.
 
-### 14. Ma conviction · L'agilité est née de ce navire
+### 15. Ma conviction · L'agilité est née de ce navire
 
 *`conviction1` · 147 mots*
 
@@ -190,7 +204,7 @@ Si cette thèse est juste, elle a une conséquence pour aujourd'hui. Mais avant,
 
 ## L'armada : l'agilité se diffuse et perd ses pratiques techniques.
 
-### 15. Chapitre 3 · 2001 — 2024 · L'armada
+### 16. Chapitre 3 · 2001 — 2024 · L'armada
 
 *`ch3` · 55 mots*
 
@@ -200,7 +214,7 @@ Après 2001, l'agilité se diffuse à une vitesse que ses auteurs n'avaient pas 
 
 Je vais vous montrer que, dans cette diffusion, quelque chose s'est perdu en route. Là encore, je m'appuie sur des chiffres et sur ce qu'en ont dit les signataires eux-mêmes.
 
-### 16. 2002 — 2006 · On cartographie encore
+### 17. 2002 — 2006 · On cartographie encore
 
 *`pionniers` · 115 mots*
 
@@ -218,7 +232,7 @@ Mars 2006 : Dan North présente le Behaviour-Driven Development.
 
 Regardez la nature de ces travaux. Ce sont presque tous des travaux techniques : comment écrire, tester, structurer, reprendre du code. La communauté d'origine continue de creuser le même sillon.
 
-### 17. 2006 — 2010 · Scrum s'impose, XP s'efface
+### 18. 2006 — 2010 · Scrum s'impose, XP s'efface
 
 *`scrumxp` · 135 mots*
 
@@ -234,7 +248,7 @@ En quatre ans, XP a presque disparu en tant que méthode revendiquée. Scrum s'e
 
 Le grand navire d'apparat est passé devant le bateau de travail.
 
-### 18. La déconnexion · La parade sur le pont
+### 19. La déconnexion · La parade sur le pont
 
 *`deconnexion` · 173 mots*
 
@@ -250,7 +264,7 @@ Ron Jeffries, autre signataire, parlera en 2016 de « Dark Scrum ».
 
 L'image que je vous propose : la parade sur le pont. Les uniformes sont impeccables. Les cordages sont emmêlés.
 
-### 19. 1999 → 2011 · Le coach : du geste à la posture
+### 20. 1999 → 2011 · Le coach : du geste à la posture
 
 *`coaching` · 186 mots*
 
@@ -266,7 +280,7 @@ Ce que je vous propose ici est une interprétation ; je n'ai pas trouvé d'histo
 
 Ce n'est pas une critique du coaching. C'est le même mouvement que celui de la slide précédente, vu depuis un métier.
 
-### 20. 2016 · « Agile Industrial Complex » · D'une communauté à une industrie
+### 21. 2016 · « Agile Industrial Complex » · D'une communauté à une industrie
 
 *`industrie` · 209 mots*
 
@@ -284,7 +298,7 @@ Je fais partie de cette industrie, moi aussi. Je ne vous montre pas ces guichets
 
 ## La machine : les agents IA ouvrent une seconde rupture.
 
-### 21. Chapitre 4 · 2025 — · La machine
+### 22. Chapitre 4 · 2025 — · La machine
 
 *`ch4` · 64 mots*
 
@@ -294,7 +308,7 @@ Voici un vapeur qui sort de la brume au milieu des voiliers. Il n'a pas besoin d
 
 Je vais vous parler de ce qui se passe depuis 2025. Ici, les sources sont récentes et la prudence s'impose : nous manquons de recul, et une bonne partie de ce qui se publie vient de ceux qui vendent les outils.
 
-### 22. 2025 — 2026 · les agents de codage · Elle comprend notre langue
+### 23. 2025 — 2026 · les agents de codage · Elle comprend notre langue
 
 *`agents` · 171 mots*
 
@@ -308,7 +322,7 @@ Début 2026, Anthropic publie un rapport de tendances. C'est un document d'édit
 
 Ce qui change, pour mon propos, tient en une phrase : la machine comprend maintenant notre langue.
 
-### 23. Procédural · Objet · IA · Trois façons de parler à la machine
+### 24. Procédural · Objet · IA · Trois façons de parler à la machine
 
 *`epoques` · 174 mots*
 
@@ -322,7 +336,7 @@ Le vapeur, c'est l'IA. L'humain exprime son intention dans sa propre langue, et 
 
 Est-ce la plus grande rupture depuis l'objet ? C'est mon opinion, et je n'ai trouvé personne d'autorité pour le dire en ces termes. Le rapport d'Anthropic parle du plus grand changement depuis l'interface graphique. Martin Fowler compare l'ampleur du changement au passage de l'assembleur aux premiers langages de haut niveau. Chacun choisit son repère. Le mien, c'est l'objet, parce que c'est lui qui a fait naître nos pratiques.
 
-### 24. 2025 ≈ 1993 · Dans la brume
+### 25. 2025 ≈ 1993 · Dans la brume
 
 *`fenetre` · 155 mots*
 
@@ -338,7 +352,7 @@ Nous sommes dans la brume. Il y a un phare, au loin, mais personne ne sait encor
 
 ## Le large : ce qui vacille, ce qui tient, et les questions ouvertes.
 
-### 25. Chapitre 5 · 2026 → · Et maintenant ?
+### 26. Chapitre 5 · 2026 → · Et maintenant ?
 
 *`ch5` · 62 mots*
 
@@ -350,7 +364,7 @@ Si ma thèse est juste, si l'agilité est née de ce que l'objet permettait de d
 
 Ce qui suit est ma lecture. Je vous la donne pour qu'on en discute, pas pour trancher.
 
-### 26. Les conditions de l'agilité · Le vent a tourné
+### 27. Les conditions de l'agilité · Le vent a tourné
 
 *`conditions` · 141 mots*
 
@@ -366,7 +380,7 @@ Quatrième condition : l'équipe coordonne des humains qui codent. Qui coordonne
 
 Le vent a tourné. On affale une partie de la voilure. La question est de savoir ce qu'on garde à bord.
 
-### 27. Ma lecture · Ce qui vacille
+### 28. Ma lecture · Ce qui vacille
 
 *`vacille` · 196 mots*
 
@@ -382,7 +396,7 @@ Je vous dois une nuance importante, parce que les meilleures voix de notre commu
 
 Donc : ce qui vacille, ce n'est pas l'itération. C'est une partie de l'outillage que nous avions construit autour.
 
-### 28. Ma lecture · Ce qui se transforme
+### 29. Ma lecture · Ce qui se transforme
 
 *`transforme` · 157 mots*
 
@@ -396,7 +410,7 @@ Les rôles. Si l'ingénieur passe plus de temps à exprimer une intention et à 
 
 Je ne sais pas où ces transformations s'arrêteront. Personne ne le sait. Ce sont des chantiers ouverts.
 
-### 29. Ma lecture · Ce qui tient
+### 30. Ma lecture · Ce qui tient
 
 *`tient` · 150 mots*
 
@@ -414,7 +428,7 @@ Et l'empirisme : regarder ce qui se passe, et ajuster.
 
 Je vous laisse avec une observation, que je vous invite à vérifier par vous-mêmes. Cette liste ressemble beaucoup à ce que la diffusion avait laissé à quai. Le principe du Manifeste sur l'excellence technique, celui que je vous ai lu tout à l'heure, n'a peut-être jamais été aussi actuel.
 
-### 30. Ce que l'histoire enseigne · Inviter, ne pas imposer · 1 · Une rupture technique appelle une façon de travailler · 2 · Garder l'excellence technique au centre · 3 · Inviter, ne pas imposer · 4 · Rester une communauté d'idées · 5 · Avancer par essais, à petite échelle
+### 31. Ce que l'histoire enseigne · Inviter, ne pas imposer · 1 · Une rupture technique appelle une façon de travailler · 2 · Garder l'excellence technique au centre · 3 · Inviter, ne pas imposer · 4 · Rester une communauté d'idées · 5 · Avancer par essais, à petite échelle
 
 *`lecons` · 124 mots*
 
@@ -432,7 +446,7 @@ Cinq : avancer par essais, à petite échelle, en regardant les résultats.
 
 Si je ne devais en garder qu'une, ce serait celle qui est en titre.
 
-### 31. Comme en 1993 · D'autres prennent déjà la mer
+### 32. Comme en 1993 · D'autres prennent déjà la mer
 
 *`tentatives` · 159 mots*
 
@@ -444,7 +458,7 @@ J'ai moi-même proposé une contribution, AIAD, un cadre ouvert et open source. 
 
 Aucune de ces tentatives n'est la réponse. XP n'était pas non plus la réponse en 1996. C'étaient des expériences, menées par des praticiens, et publiées.
 
-### 32. Les questions que je vous laisse · Que gardez-vous à bord ? · Que garder de l'agilité quand écrire le code n'est plus le goulot ? · Qu'est-ce qu'une équipe, quand une partie de ses membres sont des agents ? · Que coache un coach agile, demain ? · Comment rester une communauté d'idées avant de devenir une industrie ?
+### 33. Les questions que je vous laisse · Que gardez-vous à bord ? · Que garder de l'agilité quand écrire le code n'est plus le goulot ? · Qu'est-ce qu'une équipe, quand une partie de ses membres sont des agents ? · Que coache un coach agile, demain ? · Comment rester une communauté d'idées avant de devenir une industrie ?
 
 *`questions` · 88 mots*
 
@@ -460,7 +474,7 @@ Et comment faire, cette fois-ci, pour rester une communauté d'idées avant de d
 
 Prenez-en une. Emportez-la dans votre équipe.
 
-### 33. Ma conviction · Tout ne sera pas emporté · Mais tout mérite d'être réexaminé. Merci.
+### 34. Ma conviction · Tout ne sera pas emporté · Mais tout mérite d'être réexaminé. Merci.
 
 *`fin` · 127 mots*
 
@@ -472,7 +486,7 @@ On attribue à Mark Twain la phrase : « l'histoire ne se répète pas, mais ell
 
 Et je vous ai préparé deux cadeaux pour la route. Merci.
 
-### 34. Pour la route · Deux cadeaux à emporter · Deck Agile
+### 35. Pour la route · Deux cadeaux à emporter · Deck Agile
 Apprendre l'histoire de l'agilité en jouant · deck-agile.vercel.app · [QR code] · L'histoire de l'agilité · Le récit complet et sourcé, des précurseurs à l'IA · [lien à venir]
 
 *`cadeaux` · 47 mots*
