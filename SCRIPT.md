@@ -1,6 +1,6 @@
 # Et maintenant ? — La traversée — script
 
-> 4401 mots · environ 31 min à 140 mots/min
+> 4420 mots · environ 32 min à 140 mots/min
 
 ## Ouverture : l'agilité n'est pas née en 2001.
 
@@ -12,15 +12,15 @@ Bonjour à toutes et à tous. Je m'appelle Steeve Evers. Depuis plusieurs mois, 
 
 Le titre de cette conférence est une question : « Et maintenant ? ». Pour y répondre, je vous propose un détour par le passé. Et pour raconter ce passé, je vais utiliser une image : celle d'une traversée. Vous allez voir des navires, des équipages, des ports. Ce ne sont que des images. Les faits, eux, sont sourcés, et je vous dirai à chaque fois ce qui relève du fait et ce qui relève de ma conviction.
 
-### 2. D'où je parle · Steeve Evers · Laboratoire d'Expérimentations Digitales · BPCE SI · J'accompagne les initiatives innovantes de nos collaborateurs et partenaires. · BPCE SI · Une entreprise dédiée à l'innovation, au développement et à la maintenance des systèmes d'information des établissements bancaires et des métiers du Groupe BPCE. · 2 500 collaborateurs · 18 villes en France · Groupe BPCE · « Coopératif, banquier et assureur, notre modèle est au service de nos clients et de l'économie. » · 2e acteur bancaire en France
+### 2. D'où je parle · Steeve Evers · Laboratoire d'Expérimentations Digitales · BPCE SI · J'accompagne les initiatives innovantes de nos collaborateurs et partenaires. · BPCE SI · « Accélérer le business, en construisant ensemble des solutions technologiques performantes dans une entreprise IT de référence. » · Une entreprise dédiée à l'innovation, au développement et à la maintenance des systèmes d'information des établissements bancaires et des métiers du Groupe BPCE. · 2 500 collaborateurs · 18 villes en France · Groupe BPCE · « Coopératif, banquier et assureur, notre modèle est au service de nos clients et de l'économie. » · 2e acteur bancaire en France
 
-*`qui` · 122 mots*
+*`qui` · 141 mots*
 
 Un mot sur d'où je parle.
 
 Je travaille au sein du Laboratoire d'Expérimentations Digitales de BPCE SI. Mon rôle : accompagner les initiatives innovantes de nos collaborateurs et de nos partenaires.
 
-BPCE SI est une entreprise dédiée à l'innovation, au développement et à la maintenance des systèmes d'information des établissements bancaires et des métiers du Groupe BPCE. Nous sommes environ 2 500, dans 18 villes en France.
+BPCE SI est une entreprise dédiée à l'innovation, au développement et à la maintenance des systèmes d'information des établissements bancaires et des métiers du Groupe BPCE. Notre mission : accélérer le business, en construisant ensemble des solutions technologiques performantes dans une entreprise IT de référence. Nous sommes environ 2 500, dans 18 villes en France.
 
 Le Groupe BPCE, deuxième acteur bancaire en France, se définit ainsi : coopératif, banquier et assureur, son modèle est au service de ses clients et de l'économie.
 
