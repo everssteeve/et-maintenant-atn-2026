@@ -93,15 +93,15 @@ C'est exactement la situation du logiciel avant les années 1990. Les idées que
 <p style="font-size:32px;line-height:1.4;width:1500px;color:#E4E5F0;text-shadow:0px 2px 16px rgba(14,18,51,0.9)">Follett · Royce · Weinberg · Gilb · Deming</p>
 <aside>Cinq phares, cinq noms.
 
-1924 : Mary Parker Follett publie « Creative Experience ». Elle y oppose le pouvoir « sur » les autres au pouvoir « avec » les autres. Elle parle d'intégration et de processus de groupe ; l'expression « intelligence collective » est la nôtre, pas la sienne.
+1924 : Mary Parker Follett oppose le pouvoir « sur » les autres au pouvoir « avec » les autres.
 
-1970 : Winston Royce publie l'article qu'on présente comme l'acte de naissance du cycle en cascade. Or il y écrit que ce modèle purement séquentiel est, je cite, « risqué et invite à l'échec ». Il ne propose pas pour autant de l'itératif au sens moderne : il recommande des retours entre phases voisines et de construire le système deux fois. Le mot « waterfall » n'apparaît pas dans son texte ; sa première trace connue date de 1976.
+1970 : Winston Royce publie l'article qu'on présente comme l'acte de naissance du cycle en cascade. Il y écrit pourtant que ce modèle purement séquentiel est, je cite, « risqué et invite à l'échec ». Le mot « waterfall » n'apparaît même pas dans son texte.
 
-1971 : Gerald Weinberg, « The Psychology of Computer Programming ». Il y défend la programmation sans ego : le logiciel est une activité humaine.
+1971 : Gerald Weinberg défend la programmation sans ego : le logiciel est une activité humaine.
 
-1976 : Tom Gilb publie « Software Metrics ». D'après les historiens Larman et Basili, c'est le plus ancien livre qu'ils aient trouvé à défendre clairement une livraison évolutive, par petits pas. Et la pratique est plus ancienne encore : on livrait par incréments sur le projet Mercury de la NASA au début des années 1960.
+1976 : Tom Gilb défend la livraison évolutive, par petits pas. D'après Larman et Basili, c'est le plus ancien livre à le faire clairement.
 
-1986 : Deming publie « Out of the Crisis », issu d'un premier texte de 1982. Il y décrit ce qu'il appelle le cycle de Shewhart. Le sigle PDCA vient du Japon, et Deming l'a explicitement rejeté au profit de PDSA.</aside>
+1986 : Deming publie « Out of the Crisis » et son cycle d'amélioration continue, qu'il appelle PDSA plutôt que PDCA.</aside>
 </section>
 
 <section id="scrum1986" data-transition="fade" style="background:#0E1233;color:#FDFBF3;font-family:'Public Sans', Arial, sans-serif;padding:96px 128px;display:flex;flex-direction:column;justify-content:flex-end;gap:16px">
@@ -169,15 +169,13 @@ Ce n'est pas encore une méthode. C'est une nouvelle façon de converser. Et ell
 <p style="font-size:32px;line-height:1.4;width:1500px;color:#E4E5F0;text-shadow:0px 2px 16px rgba(14,18,51,0.9)">Un besoin et une opportunité : se parler</p>
 <aside>Voici, à mon sens, le cœur de l'histoire. C'est une lecture, mais elle s'appuie sur ce que les acteurs ont écrit eux-mêmes.
 
-Avant l'objet, l'humain parle la langue de la machine. L'intention se perd dans la traduction, et changer coûte cher. Donc on spécifie tout, à l'avance, par écrit. C'est la galère : tout le monde rame à la cadence.
+Avant l'objet, l'humain parle la langue de la machine. Changer coûte cher, donc on spécifie tout à l'avance. C'est la galère : tout le monde rame à la cadence.
 
-Avec l'objet, deux choses changent. Le code peut porter les mots du métier. Et le code devient plus facile à modifier.
+Avec l'objet, le code peut porter les mots du métier, et il devient plus facile à modifier.
 
-Ward Cunningham le dit en 1992, dans le texte où il invente la métaphore de la dette. Tout le monde cite la première phrase : livrer du code imparfait, c'est s'endetter. Presque personne ne cite la suite : « les objets rendent le coût de cette transaction tolérable ».
+Ward Cunningham invente en 1992 la métaphore de la dette. Presque personne ne cite la suite : « les objets rendent le coût de cette transaction tolérable ». Kent Beck, en 1999, voit dans les objets une technologie clé pour aplatir le coût du changement, tout en précisant qu'ils ne sont ni indispensables ni suffisants.
 
-Kent Beck le dit en 1999 : pour lui, les objets sont une technologie clé pour aplatir le coût du changement. Il ajoute aussitôt, et je veux être honnête avec vous, qu'ils ne sont ni indispensables ni suffisants.
-
-Si changer coûte moins cher, alors on peut ajuster en chemin. Mais ajuster suppose de se parler, souvent, entre ceux qui connaissent le métier et ceux qui écrivent le code. L'objet crée à la fois l'opportunité et le besoin. C'est le voilier : on règle la voilure en route, à condition que l'équipage se parle.</aside>
+Si changer coûte moins cher, on peut ajuster en chemin. Mais ajuster suppose de se parler, souvent. L'objet crée à la fois l'opportunité et le besoin. C'est le voilier : on règle la voilure en route, à condition que l'équipage se parle.</aside>
 </section>
 
 <section id="oopsla" data-transition="fade" style="background:#0E1233;color:#FDFBF3;font-family:'Public Sans', Arial, sans-serif;padding:96px 128px;display:flex;flex-direction:column;justify-content:flex-end;gap:16px">
@@ -319,15 +317,11 @@ Le grand navire d'apparat est passé devant le bateau de travail.</aside>
 <h2 style="font-family:'Libre Baskerville', Georgia, serif;font-size:64px;font-weight:700;line-height:1.15;width:1500px;color:#FDFBF3;text-shadow:0px 2px 16px rgba(14,18,51,0.9)">La parade sur le pont</h2>
 <aside>Qu'est-ce qui s'est diffusé, et qu'est-ce qui est resté à quai ?
 
-Les mêmes enquêtes donnent une indication. En 2019, 85 % des répondants pratiquent la réunion quotidienne, 81 % la rétrospective. Le développement piloté par les tests, lui, passe de 49 % en 2008 à 30 % en 2019. La programmation en binôme reste autour de 30 %.
+Dans les mêmes enquêtes, en 2019, 85 % des répondants pratiquent la réunion quotidienne, 81 % la rétrospective. Le développement piloté par les tests, lui, passe de 49 % en 2008 à 30 % en 2019. La programmation en binôme reste autour de 30 %. Les tests unitaires et l'intégration continue se sont répandus ; ce sont les pratiques les plus exigeantes de XP qui sont restées minoritaires.
 
-Je nuance : les tests unitaires et l'intégration continue se sont largement répandus. Ce sont les pratiques les plus exigeantes de XP qui sont restées minoritaires.
+Martin Fowler nomme le phénomène dès 2009 : le « Scrum flasque », une équipe qui ralentit parce que sa base de code est en désordre. Il précise que les promoteurs de Scrum ont toujours dit les pratiques techniques nécessaires. Ron Jeffries parlera en 2016 de « Dark Scrum ».
 
-Martin Fowler décrit le phénomène dès 2009, sous le nom de « Scrum flasque » : une équipe adopte Scrum, puis ralentit parce que sa base de code est en désordre. Il ajoute que Scrum omet délibérément les pratiques techniques. Et il prend soin de préciser que les promoteurs de Scrum ont toujours dit qu'elles étaient nécessaires.
-
-Ron Jeffries, autre signataire, parlera en 2016 de « Dark Scrum ».
-
-L'image que je vous propose : la parade sur le pont. Les uniformes sont impeccables. Les cordages sont emmêlés.</aside>
+La parade sur le pont : les uniformes sont impeccables, les cordages sont emmêlés.</aside>
 </section>
 
 <section id="coaching" data-transition="fade" style="background:#0E1233;color:#FDFBF3;font-family:'Public Sans', Arial, sans-serif;padding:96px 128px;display:flex;flex-direction:column;justify-content:flex-end;gap:16px">
@@ -337,13 +331,11 @@ L'image que je vous propose : la parade sur le pont. Les uniformes sont impeccab
 <h2 style="font-family:'Libre Baskerville', Georgia, serif;font-size:64px;font-weight:700;line-height:1.15;width:1500px;color:#FDFBF3;text-shadow:0px 2px 16px rgba(14,18,51,0.9)">Le coach : du geste à la posture</h2>
 <aside>Et le coach, dans cette histoire ?
 
-En 1999, nous l'avons vu, le coach de XP est dans l'équipe. C'est le plus souvent un développeur expérimenté, garant du processus et de son exécution technique. Kent Beck note d'ailleurs que la compétence technique n'est pas une exigence absolue.
+En 1999, le coach de XP est dans l'équipe : le plus souvent un développeur expérimenté, garant du processus et de son exécution technique.
 
-En août 2009, Rachel Davies et Liz Sedley publient « Agile Coaching ». En mai 2010, Lyssa Adkins publie « Coaching Agile Teams » et cofonde la même année l'Agile Coaching Institute avec Michael Spayd.
+En 2009 et 2010 paraissent « Agile Coaching » de Rachel Davies et Liz Sedley, puis « Coaching Agile Teams » de Lyssa Adkins, qui cofonde l'Agile Coaching Institute avec Michael Spayd. Leur référentiel de 2011 place au centre quatre postures : enseigner, mentorer, faciliter, coacher. La maîtrise technique y devient un domaine parmi trois.
 
-En 2011, leur référentiel de compétences place au centre quatre postures : enseigner, mentorer, faciliter, coacher au sens professionnel. La maîtrise technique y devient un domaine d'expertise parmi trois, à côté du métier et de la transformation.
-
-Ce que je vous propose ici est une interprétation ; je n'ai pas trouvé d'historien qui la formule ainsi. Il me semble que le coach passe du geste à la posture. Il transmettait un savoir-faire de marin. Il accompagne désormais surtout un cadre et des relations.
+C'est une interprétation, je n'ai pas trouvé d'historien qui la formule ainsi : le coach passe du geste à la posture. Il transmettait un savoir-faire de marin ; il accompagne désormais surtout un cadre et des relations.
 
 Ce n'est pas une critique du coaching. C'est le même mouvement que celui de la slide précédente, vu depuis un métier.</aside>
 </section>
@@ -355,15 +347,13 @@ Ce n'est pas une critique du coaching. C'est le même mouvement que celui de la 
 <h2 style="font-family:'Libre Baskerville', Georgia, serif;font-size:64px;font-weight:700;line-height:1.15;width:1500px;color:#FDFBF3;text-shadow:0px 2px 16px rgba(14,18,51,0.9)">D'une communauté à une industrie</h2>
 <aside>Dernier trait de cette période : la communauté d'idées devient une industrie.
 
-Dès octobre 2006, Martin Fowler prévient : imposer un processus à une équipe est, écrit-il, totalement contraire aux principes de l'agilité.
+Dès 2006, Martin Fowler prévient : imposer un processus à une équipe est, écrit-il, totalement contraire aux principes de l'agilité.
 
-En décembre 2008, Craig Larman et Bas Vodde publient le premier livre sur ce qui deviendra LeSS, issu d'un travail commencé en 2005. En 2011, Dean Leffingwell publie la première version de SAFe ; les premières certifications suivent en 2012. Le besoin de travailler à grande échelle est réel. Les réponses sont très différentes.
+Puis viennent les cadres à grande échelle : les premiers travaux de Larman et Vodde sur LeSS en 2008, SAFe en 2011 avec ses certifications. Le besoin est réel ; les réponses sont très différentes.
 
-On trouve dès 2014 la trace d'une expression : le « complexe agilo-industriel ». Daniel Mezick la théorise en décembre 2016 : un réseau d'institutions, de consultants et d'éditeurs qui rend normale l'imposition de l'agilité à des équipes qui n'y ont pas consenti.
+En 2016, Daniel Mezick théorise le « complexe agilo-industriel » : un réseau qui rend normale l'imposition de l'agilité à des équipes qui n'y ont pas consenti. En 2018, Martin Fowler reprend l'expression sur scène, en reconnaissant qu'il en fait partie, et regrette qu'on parle si peu, dans les conférences agiles, des techniques d'écriture du logiciel.
 
-En 2018, Martin Fowler la reprend sur scène, en reconnaissant qu'il en fait lui-même partie, et il qualifie cette imposition de « travesty » : une mascarade. Dans la même conférence, il regrette que l'on parle si peu, dans les conférences agiles, des techniques d'écriture du logiciel.
-
-Je fais partie de cette industrie, moi aussi. Je ne vous montre pas ces guichets pour accuser, mais pour que nous regardions où nous en sommes au moment où arrive la suite.</aside>
+Je fais partie de cette industrie, moi aussi. Je ne montre pas ces guichets pour accuser, mais pour voir où nous en sommes au moment où arrive la suite.</aside>
 </section>
 
 <section id="ch4" data-transition="fade" style="background:#0E1233;color:#FDFBF3;font-family:'Public Sans', Arial, sans-serif;padding:96px 128px;display:flex;flex-direction:column;justify-content:flex-end;gap:16px">
@@ -465,15 +455,15 @@ Le vent a tourné. On affale une partie de la voilure. La question est de savoir
 <h2 style="font-family:'Libre Baskerville', Georgia, serif;font-size:64px;font-weight:700;line-height:1.15;width:1500px;color:#FDFBF3;text-shadow:0px 2px 16px rgba(14,18,51,0.9)">Ce qui vacille</h2>
 <aside>Ce qui vacille, d'abord. Je parle en mon nom.
 
-Le sablier. Tout ce qui sert à estimer et à planifier notre capacité à produire du code : les points, la vélocité, la taille du sprint pensée comme une unité de production. Si produire n'est plus le goulot, ces instruments mesurent autre chose que ce qui compte.
+Le sablier : les points, la vélocité, le sprint pensé comme une unité de production. Si produire n'est plus le goulot, ces instruments mesurent autre chose que ce qui compte.
 
-La préférence systématique pour l'oral. Je ne dis pas qu'il faut revenir aux cahiers des charges. Je dis qu'un contexte écrit, versionné, lisible par une machine, redevient utile.
+La préférence systématique pour l'oral. Je ne dis pas qu'il faut revenir aux cahiers des charges. Mais un contexte écrit, versionné, lisible par une machine, redevient utile.
 
 Et certains rituels, conçus pour synchroniser des personnes qui écrivent du code à la main.
 
-Je vous dois une nuance importante, parce que les meilleures voix de notre communauté la formulent. Fin 2025, le Technology Radar de Thoughtworks signale, à propos du développement piloté par les spécifications, le risque de retomber dans de vieux travers : la grosse spécification en amont et la livraison en une fois. Birgitta Böckeler, sur le site de Martin Fowler, écrit qu'elle reste sceptique, et que les petits pas itératifs restent le meilleur moyen de garder la maîtrise.
+Une nuance importante, que formulent les meilleures voix de notre communauté. Le Technology Radar de Thoughtworks et Birgitta Böckeler, sur le site de Martin Fowler, mettent en garde contre le retour de la grosse spécification en amont : les petits pas restent le meilleur moyen de garder la maîtrise.
 
-Donc : ce qui vacille, ce n'est pas l'itération. C'est une partie de l'outillage que nous avions construit autour.</aside>
+Ce qui vacille, ce n'est donc pas l'itération. C'est une partie de l'outillage que nous avions construit autour.</aside>
 </section>
 
 <section id="transforme" data-transition="fade" style="background:#0E1233;color:#FDFBF3;font-family:'Public Sans', Arial, sans-serif;padding:96px 128px;display:flex;flex-direction:column;justify-content:flex-end;gap:16px">
@@ -605,11 +595,11 @@ Et je vous ai préparé deux cadeaux pour la route. Merci.</aside>
 </div>
 </div>
 <div style="flex:1;display:flex;gap:40px;align-items:center;background:#1A1F4A;border:1px solid #2E3466;border-radius:24px;padding:40px">
-<div style="width:304px;height:304px;background:#FDFBF3;border-radius:16px;padding:24px;display:flex;align-items:center;justify-content:center"><p style="font-size:24px;color:#0E1233">[QR code]</p></div>
+<div style="width:304px;height:304px;background:#FDFBF3;border-radius:16px;padding:24px;display:flex;align-items:center;justify-content:center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 37" width="256" height="256" shape-rendering="crispEdges" aria-label="QR code vers l'histoire de l'agilité sur GitHub"><path stroke="#0e1233" d="M0 0.5h7m1 0h1m2 0h4m1 0h3m1 0h3m7 0h7m-37 1h1m5 0h1m1 0h2m1 0h1m3 0h4m2 0h1m1 0h4m3 0h1m5 0h1m-37 1h1m1 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h1m1 0h2m3 0h1m1 0h4m1 0h1m1 0h3m1 0h1m-37 1h1m1 0h3m1 0h1m1 0h1m1 0h2m3 0h3m1 0h1m2 0h1m2 0h3m2 0h1m1 0h3m1 0h1m-37 1h1m1 0h3m1 0h1m3 0h1m2 0h2m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1m-37 1h1m5 0h1m2 0h1m3 0h4m1 0h2m4 0h1m1 0h1m1 0h1m1 0h1m5 0h1m-37 1h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7m-29 1h3m1 0h1m1 0h1m1 0h2m9 0h2m-29 1h1m1 0h2m1 0h3m1 0h2m1 0h1m3 0h1m1 0h2m4 0h1m1 0h3m1 0h1m2 0h1m1 0h2m-37 1h1m4 0h1m1 0h1m1 0h1m3 0h1m1 0h1m1 0h2m1 0h2m3 0h1m2 0h2m4 0h2m-36 1h1m1 0h1m2 0h2m1 0h1m1 0h1m2 0h1m3 0h2m3 0h4m2 0h1m3 0h2m-34 1h1m1 0h1m1 0h1m3 0h1m4 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h3m1 0h3m1 0h2m-35 1h4m2 0h2m1 0h1m1 0h3m1 0h1m1 0h1m2 0h1m1 0h2m1 0h2m2 0h2m1 0h5m-35 1h1m1 0h2m1 0h3m4 0h3m2 0h1m1 0h1m2 0h4m1 0h5m1 0h2m-36 1h1m1 0h4m1 0h1m5 0h1m1 0h1m2 0h3m3 0h2m1 0h1m3 0h1m1 0h1m-32 1h1m4 0h1m3 0h2m2 0h1m3 0h5m1 0h1m4 0h2m3 0h1m-37 1h2m1 0h4m1 0h1m1 0h2m1 0h3m1 0h2m1 0h1m1 0h2m1 0h1m3 0h1m1 0h1m1 0h2m-35 1h5m3 0h1m2 0h1m1 0h2m1 0h1m1 0h3m1 0h1m1 0h1m2 0h1m1 0h3m2 0h3m-34 1h1m2 0h1m1 0h2m1 0h1m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1m1 0h2m4 0h1m2 0h2m-36 1h4m5 0h1m5 0h3m1 0h1m1 0h2m4 0h1m3 0h2m1 0h1m-35 1h2m1 0h4m2 0h3m3 0h4m1 0h1m1 0h2m2 0h3m1 0h3m2 0h1m-37 1h1m2 0h3m3 0h2m1 0h3m1 0h1m1 0h3m2 0h1m4 0h2m3 0h1m1 0h1m-34 1h1m2 0h2m1 0h1m1 0h3m1 0h1m1 0h3m4 0h2m1 0h1m1 0h1m2 0h1m-30 1h1m6 0h4m1 0h1m5 0h1m3 0h3m3 0h1m1 0h3m1 0h1m-37 1h2m1 0h5m1 0h3m3 0h1m3 0h1m1 0h2m1 0h4m2 0h3m1 0h2m-35 1h1m3 0h1m1 0h1m5 0h4m5 0h9m1 0h2m1 0h2m-36 1h3m1 0h2m2 0h4m6 0h2m3 0h1m1 0h1m1 0h2m4 0h2m-36 1h1m1 0h4m3 0h8m3 0h4m2 0h1m3 0h3m2 0h1m-33 1h2m1 0h3m1 0h1m1 0h1m2 0h1m2 0h5m2 0h1m2 0h5m1 0h2m-28 1h1m3 0h2m1 0h1m7 0h2m2 0h2m3 0h1m1 0h1m1 0h1m-37 1h7m1 0h2m3 0h1m1 0h1m4 0h1m3 0h1m3 0h1m1 0h1m1 0h1m1 0h3m-37 1h1m5 0h1m1 0h2m1 0h2m1 0h1m1 0h3m5 0h1m2 0h2m3 0h1m-33 1h1m1 0h3m1 0h1m3 0h2m4 0h2m1 0h1m6 0h1m1 0h6m-34 1h1m1 0h3m1 0h1m1 0h3m2 0h2m1 0h4m1 0h1m1 0h2m2 0h1m1 0h2m1 0h1m1 0h3m-37 1h1m1 0h3m1 0h1m1 0h1m1 0h4m4 0h1m2 0h3m4 0h3m1 0h1m1 0h1m-35 1h1m5 0h1m3 0h1m2 0h3m3 0h2m1 0h5m2 0h4m1 0h1m-35 1h7m1 0h3m1 0h3m1 0h2m4 0h2m1 0h2m2 0h1m2 0h5"/></svg></div>
 <div style="flex:1;display:flex;flex-direction:column;gap:16px">
 <h3 style="font-family:'Libre Baskerville', Georgia, serif;font-size:40px;font-weight:700;line-height:1.2;color:#FDFBF3">L'histoire de l'agilité</h3>
 <p style="font-size:28px;line-height:1.4;color:#E4E5F0">Le récit complet et sourcé, des précurseurs à l'IA</p>
-<p style="font-size:28px;font-weight:700;color:#FF8AC4">[lien à venir]</p>
+<p style="font-size:24px;font-weight:700;line-height:1.4;color:#FF8AC4">github.com/everssteeve/<br>et-maintenant-atn-2026</p>
 </div>
 </div>
 </div>

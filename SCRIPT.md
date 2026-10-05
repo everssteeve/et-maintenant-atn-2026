@@ -1,6 +1,6 @@
 # Et maintenant ? — La traversée — script
 
-> 4757 mots · environ 34 min à 140 mots/min
+> 4402 mots · environ 31 min à 140 mots/min
 
 ## Ouverture : l'agilité n'est pas née en 2001.
 
@@ -50,19 +50,19 @@ C'est exactement la situation du logiciel avant les années 1990. Les idées que
 
 ### 5. 1924 — 1986 · Les géants oubliés · Follett · Royce · Weinberg · Gilb · Deming
 
-*`geants` · 252 mots*
+*`geants` · 131 mots*
 
 Cinq phares, cinq noms.
 
-1924 : Mary Parker Follett publie « Creative Experience ». Elle y oppose le pouvoir « sur » les autres au pouvoir « avec » les autres. Elle parle d'intégration et de processus de groupe ; l'expression « intelligence collective » est la nôtre, pas la sienne.
+1924 : Mary Parker Follett oppose le pouvoir « sur » les autres au pouvoir « avec » les autres.
 
-1970 : Winston Royce publie l'article qu'on présente comme l'acte de naissance du cycle en cascade. Or il y écrit que ce modèle purement séquentiel est, je cite, « risqué et invite à l'échec ». Il ne propose pas pour autant de l'itératif au sens moderne : il recommande des retours entre phases voisines et de construire le système deux fois. Le mot « waterfall » n'apparaît pas dans son texte ; sa première trace connue date de 1976.
+1970 : Winston Royce publie l'article qu'on présente comme l'acte de naissance du cycle en cascade. Il y écrit pourtant que ce modèle purement séquentiel est, je cite, « risqué et invite à l'échec ». Le mot « waterfall » n'apparaît même pas dans son texte.
 
-1971 : Gerald Weinberg, « The Psychology of Computer Programming ». Il y défend la programmation sans ego : le logiciel est une activité humaine.
+1971 : Gerald Weinberg défend la programmation sans ego : le logiciel est une activité humaine.
 
-1976 : Tom Gilb publie « Software Metrics ». D'après les historiens Larman et Basili, c'est le plus ancien livre qu'ils aient trouvé à défendre clairement une livraison évolutive, par petits pas. Et la pratique est plus ancienne encore : on livrait par incréments sur le projet Mercury de la NASA au début des années 1960.
+1976 : Tom Gilb défend la livraison évolutive, par petits pas. D'après Larman et Basili, c'est le plus ancien livre à le faire clairement.
 
-1986 : Deming publie « Out of the Crisis », issu d'un premier texte de 1982. Il y décrit ce qu'il appelle le cycle de Shewhart. Le sigle PDCA vient du Japon, et Deming l'a explicitement rejeté au profit de PDSA.
+1986 : Deming publie « Out of the Crisis » et son cycle d'amélioration continue, qu'il appelle PDSA plutôt que PDCA.
 
 ### 6. 1986 · Takeuchi & Nonaka · La mêlée · Une image venue de l'industrie, pas du logiciel
 
@@ -116,19 +116,17 @@ Ce n'est pas encore une méthode. C'est une nouvelle façon de converser. Et ell
 
 ### 10. Ce que l'objet change · Le code parle enfin métier · Un besoin et une opportunité : se parler
 
-*`objet` · 223 mots*
+*`objet` · 165 mots*
 
 Voici, à mon sens, le cœur de l'histoire. C'est une lecture, mais elle s'appuie sur ce que les acteurs ont écrit eux-mêmes.
 
-Avant l'objet, l'humain parle la langue de la machine. L'intention se perd dans la traduction, et changer coûte cher. Donc on spécifie tout, à l'avance, par écrit. C'est la galère : tout le monde rame à la cadence.
+Avant l'objet, l'humain parle la langue de la machine. Changer coûte cher, donc on spécifie tout à l'avance. C'est la galère : tout le monde rame à la cadence.
 
-Avec l'objet, deux choses changent. Le code peut porter les mots du métier. Et le code devient plus facile à modifier.
+Avec l'objet, le code peut porter les mots du métier, et il devient plus facile à modifier.
 
-Ward Cunningham le dit en 1992, dans le texte où il invente la métaphore de la dette. Tout le monde cite la première phrase : livrer du code imparfait, c'est s'endetter. Presque personne ne cite la suite : « les objets rendent le coût de cette transaction tolérable ».
+Ward Cunningham invente en 1992 la métaphore de la dette. Presque personne ne cite la suite : « les objets rendent le coût de cette transaction tolérable ». Kent Beck, en 1999, voit dans les objets une technologie clé pour aplatir le coût du changement, tout en précisant qu'ils ne sont ni indispensables ni suffisants.
 
-Kent Beck le dit en 1999 : pour lui, les objets sont une technologie clé pour aplatir le coût du changement. Il ajoute aussitôt, et je veux être honnête avec vous, qu'ils ne sont ni indispensables ni suffisants.
-
-Si changer coûte moins cher, alors on peut ajuster en chemin. Mais ajuster suppose de se parler, souvent, entre ceux qui connaissent le métier et ceux qui écrivent le code. L'objet crée à la fois l'opportunité et le besoin. C'est le voilier : on règle la voilure en route, à condition que l'équipage se parle.
+Si changer coûte moins cher, on peut ajuster en chemin. Mais ajuster suppose de se parler, souvent. L'objet crée à la fois l'opportunité et le besoin. C'est le voilier : on règle la voilure en route, à condition que l'équipage se parle.
 
 ### 11. 1989 — 1995 · OOPSLA, le port d'attache
 
@@ -250,51 +248,43 @@ Le grand navire d'apparat est passé devant le bateau de travail.
 
 ### 19. La déconnexion · La parade sur le pont
 
-*`deconnexion` · 173 mots*
+*`deconnexion` · 144 mots*
 
 Qu'est-ce qui s'est diffusé, et qu'est-ce qui est resté à quai ?
 
-Les mêmes enquêtes donnent une indication. En 2019, 85 % des répondants pratiquent la réunion quotidienne, 81 % la rétrospective. Le développement piloté par les tests, lui, passe de 49 % en 2008 à 30 % en 2019. La programmation en binôme reste autour de 30 %.
+Dans les mêmes enquêtes, en 2019, 85 % des répondants pratiquent la réunion quotidienne, 81 % la rétrospective. Le développement piloté par les tests, lui, passe de 49 % en 2008 à 30 % en 2019. La programmation en binôme reste autour de 30 %. Les tests unitaires et l'intégration continue se sont répandus ; ce sont les pratiques les plus exigeantes de XP qui sont restées minoritaires.
 
-Je nuance : les tests unitaires et l'intégration continue se sont largement répandus. Ce sont les pratiques les plus exigeantes de XP qui sont restées minoritaires.
+Martin Fowler nomme le phénomène dès 2009 : le « Scrum flasque », une équipe qui ralentit parce que sa base de code est en désordre. Il précise que les promoteurs de Scrum ont toujours dit les pratiques techniques nécessaires. Ron Jeffries parlera en 2016 de « Dark Scrum ».
 
-Martin Fowler décrit le phénomène dès 2009, sous le nom de « Scrum flasque » : une équipe adopte Scrum, puis ralentit parce que sa base de code est en désordre. Il ajoute que Scrum omet délibérément les pratiques techniques. Et il prend soin de préciser que les promoteurs de Scrum ont toujours dit qu'elles étaient nécessaires.
-
-Ron Jeffries, autre signataire, parlera en 2016 de « Dark Scrum ».
-
-L'image que je vous propose : la parade sur le pont. Les uniformes sont impeccables. Les cordages sont emmêlés.
+La parade sur le pont : les uniformes sont impeccables, les cordages sont emmêlés.
 
 ### 20. 1999 → 2011 · Le coach : du geste à la posture
 
-*`coaching` · 186 mots*
+*`coaching` · 144 mots*
 
 Et le coach, dans cette histoire ?
 
-En 1999, nous l'avons vu, le coach de XP est dans l'équipe. C'est le plus souvent un développeur expérimenté, garant du processus et de son exécution technique. Kent Beck note d'ailleurs que la compétence technique n'est pas une exigence absolue.
+En 1999, le coach de XP est dans l'équipe : le plus souvent un développeur expérimenté, garant du processus et de son exécution technique.
 
-En août 2009, Rachel Davies et Liz Sedley publient « Agile Coaching ». En mai 2010, Lyssa Adkins publie « Coaching Agile Teams » et cofonde la même année l'Agile Coaching Institute avec Michael Spayd.
+En 2009 et 2010 paraissent « Agile Coaching » de Rachel Davies et Liz Sedley, puis « Coaching Agile Teams » de Lyssa Adkins, qui cofonde l'Agile Coaching Institute avec Michael Spayd. Leur référentiel de 2011 place au centre quatre postures : enseigner, mentorer, faciliter, coacher. La maîtrise technique y devient un domaine parmi trois.
 
-En 2011, leur référentiel de compétences place au centre quatre postures : enseigner, mentorer, faciliter, coacher au sens professionnel. La maîtrise technique y devient un domaine d'expertise parmi trois, à côté du métier et de la transformation.
-
-Ce que je vous propose ici est une interprétation ; je n'ai pas trouvé d'historien qui la formule ainsi. Il me semble que le coach passe du geste à la posture. Il transmettait un savoir-faire de marin. Il accompagne désormais surtout un cadre et des relations.
+C'est une interprétation, je n'ai pas trouvé d'historien qui la formule ainsi : le coach passe du geste à la posture. Il transmettait un savoir-faire de marin ; il accompagne désormais surtout un cadre et des relations.
 
 Ce n'est pas une critique du coaching. C'est le même mouvement que celui de la slide précédente, vu depuis un métier.
 
 ### 21. 2016 · « Agile Industrial Complex » · D'une communauté à une industrie
 
-*`industrie` · 209 mots*
+*`industrie` · 152 mots*
 
 Dernier trait de cette période : la communauté d'idées devient une industrie.
 
-Dès octobre 2006, Martin Fowler prévient : imposer un processus à une équipe est, écrit-il, totalement contraire aux principes de l'agilité.
+Dès 2006, Martin Fowler prévient : imposer un processus à une équipe est, écrit-il, totalement contraire aux principes de l'agilité.
 
-En décembre 2008, Craig Larman et Bas Vodde publient le premier livre sur ce qui deviendra LeSS, issu d'un travail commencé en 2005. En 2011, Dean Leffingwell publie la première version de SAFe ; les premières certifications suivent en 2012. Le besoin de travailler à grande échelle est réel. Les réponses sont très différentes.
+Puis viennent les cadres à grande échelle : les premiers travaux de Larman et Vodde sur LeSS en 2008, SAFe en 2011 avec ses certifications. Le besoin est réel ; les réponses sont très différentes.
 
-On trouve dès 2014 la trace d'une expression : le « complexe agilo-industriel ». Daniel Mezick la théorise en décembre 2016 : un réseau d'institutions, de consultants et d'éditeurs qui rend normale l'imposition de l'agilité à des équipes qui n'y ont pas consenti.
+En 2016, Daniel Mezick théorise le « complexe agilo-industriel » : un réseau qui rend normale l'imposition de l'agilité à des équipes qui n'y ont pas consenti. En 2018, Martin Fowler reprend l'expression sur scène, en reconnaissant qu'il en fait partie, et regrette qu'on parle si peu, dans les conférences agiles, des techniques d'écriture du logiciel.
 
-En 2018, Martin Fowler la reprend sur scène, en reconnaissant qu'il en fait lui-même partie, et il qualifie cette imposition de « travesty » : une mascarade. Dans la même conférence, il regrette que l'on parle si peu, dans les conférences agiles, des techniques d'écriture du logiciel.
-
-Je fais partie de cette industrie, moi aussi. Je ne vous montre pas ces guichets pour accuser, mais pour que nous regardions où nous en sommes au moment où arrive la suite.
+Je fais partie de cette industrie, moi aussi. Je ne montre pas ces guichets pour accuser, mais pour voir où nous en sommes au moment où arrive la suite.
 
 ## La machine : les agents IA ouvrent une seconde rupture.
 
@@ -382,19 +372,19 @@ Le vent a tourné. On affale une partie de la voilure. La question est de savoir
 
 ### 28. Ma lecture · Ce qui vacille
 
-*`vacille` · 196 mots*
+*`vacille` · 148 mots*
 
 Ce qui vacille, d'abord. Je parle en mon nom.
 
-Le sablier. Tout ce qui sert à estimer et à planifier notre capacité à produire du code : les points, la vélocité, la taille du sprint pensée comme une unité de production. Si produire n'est plus le goulot, ces instruments mesurent autre chose que ce qui compte.
+Le sablier : les points, la vélocité, le sprint pensé comme une unité de production. Si produire n'est plus le goulot, ces instruments mesurent autre chose que ce qui compte.
 
-La préférence systématique pour l'oral. Je ne dis pas qu'il faut revenir aux cahiers des charges. Je dis qu'un contexte écrit, versionné, lisible par une machine, redevient utile.
+La préférence systématique pour l'oral. Je ne dis pas qu'il faut revenir aux cahiers des charges. Mais un contexte écrit, versionné, lisible par une machine, redevient utile.
 
 Et certains rituels, conçus pour synchroniser des personnes qui écrivent du code à la main.
 
-Je vous dois une nuance importante, parce que les meilleures voix de notre communauté la formulent. Fin 2025, le Technology Radar de Thoughtworks signale, à propos du développement piloté par les spécifications, le risque de retomber dans de vieux travers : la grosse spécification en amont et la livraison en une fois. Birgitta Böckeler, sur le site de Martin Fowler, écrit qu'elle reste sceptique, et que les petits pas itératifs restent le meilleur moyen de garder la maîtrise.
+Une nuance importante, que formulent les meilleures voix de notre communauté. Le Technology Radar de Thoughtworks et Birgitta Böckeler, sur le site de Martin Fowler, mettent en garde contre le retour de la grosse spécification en amont : les petits pas restent le meilleur moyen de garder la maîtrise.
 
-Donc : ce qui vacille, ce n'est pas l'itération. C'est une partie de l'outillage que nous avions construit autour.
+Ce qui vacille, ce n'est donc pas l'itération. C'est une partie de l'outillage que nous avions construit autour.
 
 ### 29. Ma lecture · Ce qui se transforme
 
@@ -487,7 +477,8 @@ On attribue à Mark Twain la phrase : « l'histoire ne se répète pas, mais ell
 Et je vous ai préparé deux cadeaux pour la route. Merci.
 
 ### 35. Pour la route · Deux cadeaux à emporter · Deck Agile
-Apprendre l'histoire de l'agilité en jouant · deck-agile.vercel.app · [QR code] · L'histoire de l'agilité · Le récit complet et sourcé, des précurseurs à l'IA · [lien à venir]
+Apprendre l'histoire de l'agilité en jouant · deck-agile.vercel.app · L'histoire de l'agilité
+Le récit complet et sourcé, des précurseurs à l'IA · github.com/everssteeve/et-maintenant-atn-2026
 
 *`cadeaux` · 47 mots*
 

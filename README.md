@@ -17,21 +17,21 @@ L'agilité n'est pas née en 2001 : elle est née d'un changement dans la façon
 | 4 | La machine | 2025 — | Les agents IA ouvrent une seconde rupture |
 | 5 | Le large | 2026 → | Ce qui vacille, ce qui se transforme, ce qui tient |
 
-35 slides · ~4 600 mots de notes · ~33 min de parole à 140 mots/min.
+35 slides · ~4 400 mots de notes · ~31 min de parole à 140 mots/min.
 
 ## Timing — créneau de 45 min
 
 | Chapitre | Mots | À 140 mots/min | À 125 mots/min (rythme scène) |
 |----------|-----:|------:|------:|
-| Ouverture | 223 | 1,6 min | 1,8 min |
-| 1 · Les étoiles | 559 | 4,0 min | 4,5 min |
-| 2 · Le nouveau navire | 1 169 | 8,3 min | 9,4 min |
-| 3 · L'armada | 873 | 6,2 min | 7,0 min |
+| Ouverture | 341 | 2,4 min | 2,7 min |
+| 1 · Les étoiles | 438 | 3,1 min | 3,5 min |
+| 2 · Le nouveau navire | 1 111 | 7,9 min | 8,9 min |
+| 3 · L'armada | 745 | 5,3 min | 6,0 min |
 | 4 · La machine | 564 | 4,0 min | 4,5 min |
-| 5 · Le large | 1 205 | 8,6 min | 9,6 min |
-| **Total** | **4 593** | **~33 min** | **~37 min** |
+| 5 · Le large | 1 203 | 8,6 min | 9,6 min |
+| **Total** | **4 402** | **~31 min** | **~35 min** |
 
-Sur scène, avec les pauses et les transitions, compter plutôt ~37 min, ce qui laisse **~8 min pour les questions**. Ça tient, sans marge pour du rab. Si on veut 10 à 12 min d'échanges, il faut retirer ~400 à 600 mots, en priorité dans les slides les plus chargées : `geants` (252), `objet` (223), `industrie` (209), `vacille` (196).
+Sur scène, avec les pauses et les transitions, compter ~35 min, ce qui laisse **~10 min pour les questions**.
 
 ## Contenu du repo
 
