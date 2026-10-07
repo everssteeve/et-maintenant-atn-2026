@@ -21,6 +21,8 @@ L'agilité n'est pas née en 2001 : elle est née d'un changement dans la façon
 
 ## Timing — créneau de 45 min
 
+Estimation calculée sur le texte intégral (`SCRIPT-COMPLET.md`) ; les notes du deck ne sont plus que des aide-mémoire.
+
 | Chapitre | Mots | À 140 mots/min | À 125 mots/min (rythme scène) |
 |----------|-----:|------:|------:|
 | Ouverture | 341 | 2,4 min | 2,7 min |
@@ -47,11 +49,12 @@ deck/
   images/<id>.jpg    illustrations plein écran
 scripts/build.py     génère presentation.html et SCRIPT.md
 presentation.html    version autonome, jouable hors ligne
-SCRIPT.md            texte intégral des notes, slide par slide
+SCRIPT.md            notes de rappel, slide par slide (générées)
+SCRIPT-COMPLET.md    texte intégral, pour répéter
 HISTOIRE-AGILITE.md  l'histoire de l'agilité, cadeau au public
 ```
 
-`deck/` est la source : c'est le format du deck Claude Slides, conservé tel quel pour pouvoir le resynchroniser. `presentation.html` et `SCRIPT.md` sont générés.
+`deck/` est la source : c'est le format du deck Claude Slides, conservé tel quel pour pouvoir le resynchroniser. `presentation.html` et `SCRIPT.md` sont générés ; `SCRIPT-COMPLET.md` est figé.
 
 ## Utilisation
 

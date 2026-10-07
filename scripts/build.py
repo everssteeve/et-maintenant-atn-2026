@@ -1,7 +1,7 @@
 """Build a standalone HTML presentation and a speaker script from the deck sources.
 
 Usage: python3 scripts/build.py
-Outputs: presentation.html and SCRIPT.md at the repo root.
+Outputs: presentation.html and SCRIPT.md (speaker reminder notes) at the repo root.
 """
 
 from __future__ import annotations
@@ -13,7 +13,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DECK = ROOT / "deck"
-WORDS_PER_MINUTE = 140
 
 ASIDE_RE = re.compile(r"<aside>(.*?)</aside>", re.S)
 TEXT_RE = re.compile(r"<(p|h1|h2|h3)[^>]*>(.*?)</\1>", re.S)
@@ -44,7 +43,7 @@ def screen_text(slide: str) -> list[str]:
 
 def build_script(deck: dict, slides: list[tuple[str, str]]) -> str:
     starts = {s["start"]: s["description"] for s in deck["sections"].values()}
-    lines = [f"# {deck['title']} — script", ""]
+    lines = [f"# {deck['title']} — notes de rappel", ""]
     total = 0
     for index, (sid, slide) in enumerate(slides, start=1):
         if sid in starts:
@@ -54,8 +53,7 @@ def build_script(deck: dict, slides: list[tuple[str, str]]) -> str:
         total += words
         title = " · ".join(screen_text(slide))
         lines += [f"### {index}. {title}", "", f"*`{sid}` · {words} mots*", "", notes, ""]
-    minutes = round(total / WORDS_PER_MINUTE)
-    lines.insert(2, f"> {total} mots · environ {minutes} min à {WORDS_PER_MINUTE} mots/min\n")
+    lines.insert(2, "> Aide-mémoire par slide. Le texte intégral est dans SCRIPT-COMPLET.md.\n")
     return "\n".join(lines)
 
 
