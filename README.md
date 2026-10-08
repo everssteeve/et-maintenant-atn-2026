@@ -48,9 +48,11 @@ deck/
   slides/<id>.html   une slide par fichier, notes d'orateur dans <aside>
   images/<id>.jpg    illustrations plein écran
 scripts/build.py     génère presentation.html et SCRIPT.md
+scripts/pptx_assets.py + build_pptx.js  génèrent la version PowerPoint
 presentation.html    version autonome, jouable hors ligne
 SCRIPT.md            notes de rappel, slide par slide (générées)
 SCRIPT-COMPLET.md    texte intégral, pour répéter
+Et maintenant - La traversee.pptx  version PowerPoint, script intégral dans les commentaires
 HISTOIRE-AGILITE.md  l'histoire de l'agilité, cadeau au public
 ```
 
@@ -64,3 +66,11 @@ python3 -m http.server 8000   # puis ouvrir http://localhost:8000/presentation.h
 ```
 
 Raccourcis dans la présentation : `→` / `←` ou clic pour naviguer, `n` pour afficher les notes, `f` pour le plein écran, `#12` dans l'URL pour aller à la slide 12.
+
+Version PowerPoint (polices Cambria et Calibri, présentes avec Office) :
+
+```sh
+uv run --with segno --with pillow python3 scripts/pptx_assets.py /tmp/atn-pptx
+NODE_PATH=<node_modules avec pptxgenjs> node scripts/build_pptx.js /tmp/atn-pptx/spec.json /tmp/atn-pptx "Et maintenant - La traversee.pptx" <skill pptx>/scripts/apply_theme.js
+```
+
